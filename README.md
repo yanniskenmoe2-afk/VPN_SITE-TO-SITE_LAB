@@ -46,5 +46,3 @@ Lorsque les interfaces, les routes, les règles de pare-feu et les paramètres I
 - Adressage et diagnostic réseau.
 - Notions de VPN IPsec site-à-site.
 - Analyse des journaux et résolution de problèmes.
-
-> **À compléter avant publication :** ajouter le schéma draw.io exporté en PNG, le plan d’adressage utilisé et des captures d’écran montrant l’état du tunnel et les tests de connectivité. Ne publiez aucune clé pré-partagée ni aucun secret dans le dépôt.
